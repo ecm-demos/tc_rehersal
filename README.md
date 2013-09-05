@@ -10,3 +10,15 @@
 ```
 
 my rehersal version
+
+# TO DO
+
+* have team write the functions
+* write the main script
+* data
+
+# DONE
+
+2013-09-05
+
+* populated r_scripts and tests
